@@ -638,6 +638,20 @@ div#preloader {
 
 
 
+.order{
+ padding: 100px 50px 50px;
+
+} 
+
+.ord{
+  margin-top: 10px;
+}
+
+
+.form-ord{
+  margin-top: 15px;
+}
+
 
 
 /*--------------------------------------------------------------
@@ -857,6 +871,9 @@ ul{
   text-transform: uppercase;
   transition: all 0.3s ease 0s;
   border-radius: 30px;
+}
+button[type=submit]:hover {
+  color: #E1701A;
 }
 
 @-webkit-keyframes animate-loading {
