@@ -601,38 +601,25 @@ div#preloader {
 /*--------------------------------------------------------------
 # Product-description
 --------------------------------------------------------------*/
+
+
 .square {
   height: 3px;
-  width: 120px;
+  width: 90px;
   background-color: rgb(95, 93, 93);  
+  margin-bottom: 20px;
 }
 
-
 .img-pro{
-  width: 400px;
+  width: 500px;
   height: min-content;
   padding: 10px 50px 50px 30px;
 }
 
-.prodes{
-  width: 450px;
-}
-
-.prod-des{
-  padding: 150px 0px 0px 20px;
-}
-
-.prod{
-  padding-top: 20px;
-}
-.single-well{
-  width: 450px;
-}
-
-
 .btn-product-des{
+  width: 80%;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: 0.5px;
   display: inline-block;
   padding: 5px 40px;
@@ -641,6 +628,10 @@ div#preloader {
   margin: 5px;
   color: #fff;
   background:#E1701A;
+} 
+
+.prod-des{
+  padding: 150px 0px 0px 20px;
 }
 
 
@@ -1019,6 +1010,7 @@ ul{
     padding: 150px 150px;
   }
   
+  
 }
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1169px) {
@@ -1082,6 +1074,7 @@ ul{
     line-height: 22px;
   }
 
+  
  
 
   a img {
