@@ -619,7 +619,7 @@ div#preloader {
 }
 
 .btn-product-des{
-  width: 80%;
+  width: 100%;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.5px;
@@ -636,12 +636,15 @@ div#preloader {
   padding: 150px 0px 0px 20px;
 }
 
-
+/*--------------------------------------------------------------
+# Order Page
+--------------------------------------------------------------*/
 
 .order{
  padding: 100px 50px 50px;
 
 } 
+
 
 .ord{
   margin-top: 10px;
